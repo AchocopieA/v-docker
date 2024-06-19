@@ -46,3 +46,26 @@ sudo update-grub
 
 virt-managerを使用して仮想マシンを作成し、PCIデバイスとしてNVIDIA GPUを追加します。
 これらの手順に従うことで、仮想マシン上でNVIDIA GPUを使用できるようになります。VirtualBoxではなくKVM/QEMUを使用することを強くお勧めします。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://qiita.com/bashaway/items/8fb7195bd3601dcf7162
+
+https://internet.watch.impress.co.jp/docs/column/shimizu/1551702.html
+
+https://www.proxmox.com/en/downloads/proxmox-virtual-environment
+https://qiita.com/yankee/items/1d576f7a25d6f33c6cb5
