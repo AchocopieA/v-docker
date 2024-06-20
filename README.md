@@ -60,7 +60,7 @@ virt-managerを使用して仮想マシンを作成し、PCIデバイスとし�
 
 
 
-
+https://linuxfan.info/virtualbox-guest-additions
 
 
 https://qiita.com/bashaway/items/8fb7195bd3601dcf7162
