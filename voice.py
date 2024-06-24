@@ -82,7 +82,8 @@ def main():
     st.title("Text to Speech Converter")
     
     # ユーザーがテキストを入力
-    text = st.text_area("Enter text here:", "")
+#    text = st.text_area("Enter text here:", "")
+    text = st.text_area("Enter text here:", max_chars=10000) # 文字制限10000文字
     
     if st.button("Convert to Speech"):
         if text:
